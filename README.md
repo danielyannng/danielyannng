@@ -5,11 +5,11 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Siwei Zhou
+### I'm Hanwen Yang
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
+- A Master of Information Science Student. & Open Source enthusiast.
+- 🌱 Currently studying in Auckland , Newzealand.
+- 💬 Ask me about Python, Machinelearning and my projects on [342618212@qq.com](mailto:2434387555@qq.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
@@ -40,11 +40,6 @@
 - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
 - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
-
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
