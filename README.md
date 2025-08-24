@@ -1,6 +1,4 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+## Hello  👋
 [![Mail Badge](https://img.shields.io/badge/-danielyannng@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielyannng@gmail.com)](mailto:danielyannng@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -30,10 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [✏️✏️Java软件工程师简历]([https://github.com/JoeyBling/cv](https://github.com/danielyannng/cv/raw/refs/heads/main/CV_HanwenYang.docx))
-
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
