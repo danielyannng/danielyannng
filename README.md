@@ -10,7 +10,6 @@
 - A Master of Information Science Student. & Open Source enthusiast.
 - 🌱 Currently studying in Auckland , Newzealand.
 - 💬 Ask me about Python, Machinelearning and my projects on [342618212@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -32,7 +31,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+- [✏️✏️Java软件工程师简历]([https://github.com/JoeyBling/cv](https://github.com/danielyannng/cv/raw/refs/heads/main/CV_HanwenYang.docx))
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
